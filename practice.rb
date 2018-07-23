@@ -1,1 +1,2 @@
-print "Seven_W."
+name = "Seven
+puts name 
